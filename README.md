@@ -194,6 +194,10 @@ print(confusion_matrix(y_test, predictions))
 print(classification_report(y_test, predictions))
 
 ```
+<br>
+<br>
+<br>
+<br>
 <H3>Output:</H3>
 
 ![image](https://github.com/user-attachments/assets/af75c129-ee2e-46b0-829c-520a4491b7e1)
